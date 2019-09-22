@@ -1,7 +1,7 @@
 ## Vegan recipe classifier from ingredients
 
 this project aims to classify recipes to vegan, non-vegan, based on the list of ingredients.
-
+data is from Kaggle [https://www.kaggle.com/hugodarwood/epirecipes], with some changes.
 #### Algorithms Used
 - KNN (K nearest nieghbor).
 - Logistic Regression.
